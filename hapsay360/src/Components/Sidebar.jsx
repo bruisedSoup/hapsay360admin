@@ -21,13 +21,13 @@ const Sidebar = ({ activePage }) => {
     {
       label: "Clearance Application",
       icon: <FileText size={24} />,
-      path: "/ClearanceApplication",
+      path: "/ClearancePage",
       id: "clearance",
     },
     {
       label: "Blotter Incident Reports",
       icon: <Shield size={24} />,
-      path: "/BlotterReports",
+      path: "/BlotterPage",
       id: "blotter",
     },
     {
